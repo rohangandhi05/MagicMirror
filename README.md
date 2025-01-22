@@ -1,12 +1,12 @@
 # MagicMirror-Tutorial
-Source code to go along with the Magic Mirror tutorial project "Learn C# by building an IOT Magic Mirror." 
+Source code to go along with the Magic Mirror project.
 
-I emplimented this project using my rasberry pi 5, running MagicMirror locally. 
+Quick summary of what magic mirror is: 
 
-**In addition to the variations I made the modules provided in MagicMirror open-sourse, I had created my own module from scratch.
+A Magic Mirror is a smart mirror that displays digital information like weather, calendar events, news, or notifications while functioning as a regular reflective mirror. Using a two-way mirror, a screen or monitor is placed behind it, projecting information that appears visible on the mirror's surface. (see picture below) 
+
+**In addition to the variations I made to the modules provided in MagicMirror open-source, I had created my own module from scratch.
 To view this, please head to MagicMirror/MMM-Screencast-master.**
-
-Online tutorials available here: https://www.youtube.com/playlist?list=PLi5N5AdsklLaWNAxsA5wrBJzptJlf8LjT
 
 ![alt text](https://github.com/MichWouters/MagicMirror-Tutorial/blob/master/magicmirror_mockup.jpg)
 
