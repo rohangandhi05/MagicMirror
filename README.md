@@ -1,4 +1,4 @@
-# MagicMirror-Tutorial
+# MagicMirror along with my twist!
 Source code to go along with the Magic Mirror project.
 
 Quick summary of what magic mirror is: 
